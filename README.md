@@ -2,14 +2,12 @@ Nitin Jain
 
 Developer · Builder · Creative Technologist
 
-I build digital experiences where web, AI, design and interactive technology meet.
+I like turning ideas into things people can actually use.
 
-Currently working with React, Next.js, TypeScript, Three.js and GSAP while exploring AI, WebGL and automation.
+Web · AI · 3D · Design
 
-I learn by building — experimenting, shipping and improving along the way.
+Currently learning, experimenting and shipping things.
 
 Building SINIWEBS on the side.
 
-Always learning. Always building.
-
-LinkedIn · SINIWEBS
+Let's see where it goes. :)
